@@ -3,7 +3,7 @@
 ## 👩‍🎓 Student Details
 
 * **Name:** Srishti Setia
-* **Roll Number:** (your roll no)
+* **Roll Number:** 2401010101
 * **Course:** Analysis and Design of Algorithms (ENCS202)
 * **Branch:** CSE Core
 
